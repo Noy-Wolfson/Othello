@@ -7,6 +7,7 @@ namespace B19_Ex02
     public class BoardGame
     {
         private int m_Size;
+        j
         private char[,] m_BoardGame = null;
 
         public BoardGame(int size, char coinType)
