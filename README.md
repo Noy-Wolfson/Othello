@@ -1,1 +1,1 @@
-# test
+# Othello game
