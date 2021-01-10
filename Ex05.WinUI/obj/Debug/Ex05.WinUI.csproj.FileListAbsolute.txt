@@ -1,0 +1,38 @@
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\Ex05.WinUI.exe
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\Ex05.WinUI.pdb
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\B19_Ex02.exe
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\B19_Ex02.pdb
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.OtheloGame.resources
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.GameSettings.resources
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.OtheloSquerButton.resources
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.Properties.Resources.resources
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csproj.GenerateResource.Cache
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.exe
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.pdb
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.exe
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.pdb
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\Ex05.WinUI.exe
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\Ex05.WinUI.pdb
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\B19_Ex02.exe
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\B19_Ex02.pdb
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.OtheloGame.resources
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.GameSettings.resources
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.OtheloSquerButton.resources
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.Properties.Resources.resources
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csproj.GenerateResource.Cache
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\Ex05.WinUI.exe
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\Ex05.WinUI.pdb
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\B19_Ex02.exe
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\bin\Debug\B19_Ex02.pdb
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csprojAssemblyReference.cache
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.OtheloGame.resources
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.GameSettings.resources
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.OtheloSquerButton.resources
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.Properties.Resources.resources
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csproj.GenerateResource.cache
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.csproj.CopyComplete
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.exe
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\Ex05.WinUI\obj\Debug\Ex05.WinUI.pdb

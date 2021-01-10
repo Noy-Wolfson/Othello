@@ -1,0 +1,16 @@
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\bin\Debug\B19_Ex02.exe
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\bin\Debug\B19_Ex02.pdb
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.exe
+C:\Users\noywo\לימודים\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.pdb
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\bin\Debug\B19_Ex02.exe
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\bin\Debug\B19_Ex02.pdb
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.exe
+C:\Users\noywo\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.pdb
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\bin\Debug\B19_Ex02.exe
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\bin\Debug\B19_Ex02.pdb
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.csprojAssemblyReference.cache
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.exe
+C:\Users\Noy Wolfson\Noywol\study\2second year\סמסטר ב\C#\B19 Ex05 ChenGohari 313614414 NoyWolfson 315373282\B19_Ex02\obj\Debug\B19_Ex02.pdb
